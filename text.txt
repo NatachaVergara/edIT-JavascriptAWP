@@ -1,2 +1,14 @@
 APLICACIONES WEB PROGRESIVAS
 PROGRESIVE WEB APLICATIONS
+
+
+Herramientas a trabajar en el curso
+-vscode
+-git
+-github pages
+-f12
+-cmder (consola actualizada de windows)
+
+-Elementos a usar con el f12
+-Como saber que no es pwa ir a lighthouse
+-Cache
